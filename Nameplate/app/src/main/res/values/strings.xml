@@ -1,0 +1,273 @@
+<resources>
+    <string name="app_name">Nameplate</string>
+
+    <string name="BMW">BMW</string>
+    <string name="TOYOTA">TOYOTA</string>
+    <string name="honda">HONDA</string>
+    <string name="DAEWOO">DAEWOO</string>
+    <string name="CHEVROLET">CHEVROLET</string>
+    <string name="FERRARY">FERRARY</string>
+    <string name="HYUNDAI">HYUNDAI</string>
+    <string name="ALFA_ROMEO">ALFA ROMEO</string>
+    <string name="AUDI">AUDI</string>
+    <string name="CITROEN">CITROEN</string>
+    <string name="FIAT">FIAT</string>
+    <string name="FORD">FORD</string>
+    <string name="INFINITY">INFINITY</string>
+    <string name="JAGUAR">JAGUAR</string>
+    <string name="KIA">KIA</string>
+    <string name="LANCIA">LANCIA</string>
+    <string name="LAND_ROVER">LAND ROVER</string>
+    <string name="LEXUS">LEXUS</string>
+    <string name="MAZDA">MAZDA</string>
+    <string name="MINI">MINI</string>
+    <string name="MITSUBISHI">MITSUBISHI</string>
+    <string name="MERCEDES">MERCEDES</string>
+    <string name="NISSAN">NISSAN</string>
+    <string name="OPEL">OPEL</string>
+    <string name="PEUGEOT">PEUGEOT</string>
+    <string name="PORSCHE">PORSCHE</string>
+    <string name="RENAULT">RENAULT</string>
+    <string name="SEAT">SEAT</string>
+    <string name="SKODA">SKODA</string>
+    <string name="SUBARU">SUBARU</string>
+    <string name="VOLVO">VOLVO</string>
+    <string name="VW">VOLKSWAGEN</string>
+    <string name="ACURA">ACURA</string>
+
+    <string name="audi_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Audi.html</string>
+    <string name="bmw_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-BMW.html</string>
+    <string name="chevrolet_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Chevrolet.html</string>
+    <string name="landrover_url">http://xn--80ahnfbbysk.xn--p1ai/land-rover.html</string>
+    <string name="daewoo_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Daewoo.html</string>
+    <string name="fiat_url">http://xn--80ahnfbbysk.xn--p1ai/fiat_kodi_kraski.html</string>
+    <string name="ford_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Ford.html</string>
+    <string name="honda_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Honda.html</string>
+    <string name="hyunday_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Hyundai.html</string>
+    <string name="infinity_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Infiniti.html</string>
+    <string name="jaguar_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Jaguar.html</string>
+    <string name="kia_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Kia.html</string>
+    <string name="lexus_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Lexus.html</string>
+    <string name="mazda_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Mazda.html</string>
+    <string name="mercedes_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Mercedesbenz.html</string>
+    <string name="mitsubishi_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Mitsubishi.html</string>
+    <string name="nissan_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Nissan.html</string>
+    <string name="peugeot_url">http://xn--80ahnfbbysk.xn--p1ai/renault-peugeot_kodi_kraski.html</string>
+    <string name="renault_url">http://xn--80ahnfbbysk.xn--p1ai/renault-peugeot_kodi_kraski.html</string>
+    <string name="subaru_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Subaru.html</string>
+    <string name="suzuki_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Suzuki.html</string>
+    <string name="toyota_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Toyota.html</string>
+    <string name="vw_url">http://xn--80ahnfbbysk.xn--p1ai/all-colors-Volkswagen.html</string>
+
+    <string name="ford_scheme">
+        1. Maverick.n\\n
+        2. Focus, Fiesta, Cougar, Courier, Ka, Puma.\n\n
+        3. Focus, Mondeo, C-Max, Fiesta, Fusion, S-Max, Street Ka.\n\n
+        4. Ranger.
+    </string>
+
+    <string name="bmw_scheme">
+        1. 1-Series, 3-Series, 5-Series, 7-Series, X1, X3, Z4.\n\n
+        2. 5-Grand Tourismo, 6-Series, X5, X6, 5-Grand Tourismo.\n\n
+        3. 6-Series, X3, X5, Z4, all cabrios.
+    </string>
+
+    <string name="chevrolet_scheme">
+        1. Aveo, Captiva, Epica, Spark.\n\n
+        2. Matiz.\n\n
+        3. Lacetti, Nubira.\n\n
+        4. Kalios.\n\n
+        5. HRR, Cheviniva.
+    </string>
+
+    <string name="citroen_scheme">
+        1. C-Crosser, Nemo.\n\n
+        2. Jumper, Xantia.\n\n
+        3. Berlingo First, C3, C4, C5, C6.\n\n
+        4. Berlingo, C2, C3 Pacasso, C3 Pluriel, C5, DS3.\n\n
+        5. C4 Pacasso, C8, Jumpy.\n\n
+        6. C1.
+    </string>
+
+    <string name="daewoo_scheme">
+        1. Nexia, Matiz, Nibira.
+    </string>
+
+    <string name="fiat_scheme">
+        1. Bravo, Cromo, Punto.\n\n
+        2.Doblo, Ducato.\n\n
+        3. Scudo, Musa.\n\n
+        4. Coupe, Qubo, Stilo, Lybra, K Coupe, K S.W.\n\n
+        5. Thesis.\n\n
+        6. Brava, Stilo, Y.\n\n
+        7. K, Sedan.\n\n
+        8. Marea.\n\n
+        9. 500, Panda.\n\n
+        10. Multipla.\n\n
+        11. Marea Weekend.\n\n
+        12. Scudo, Ulysee, Z.
+    </string>
+
+    <string name="honda_scheme">
+        1. Accord, Civic, Jazz.\n\n
+        2. Civic(2001), CR-V, FR-V, Stream, S2000.\n\n
+        3. Civic, HRV, Insight, Logo, NSX, Odyssey, S2000.
+    </string>
+
+    <string name="hyundai_scheme">
+        1. H200, Satelite, Starex.\n\n
+        2. Trajet.\n\n
+        3. Coupe, Lantra, Terracan.\n\n
+        4. Accent, Atos, Atos Prime, Excel, Sonata, XG30.\n\n
+        5. Matrix.\n\n
+        6. Getz, I10, I30, IX35, IX55, Santa Fe, Tucson, Veracruz.\n\n
+        7. I20.
+    </string>
+
+    <string name="infinity_scheme">
+        1.EX, EX37, FX, FX35, FX45, G35, G35 Coupé,
+        G37, G37 Convertible, G37 Coupé, M35, M45, Q45, QX56.r.
+    </string>
+
+    <string name="jaguar_scheme">
+        1. XF, XJ, S-TYPE.\n\n
+        2. X-TYPE.\n\n
+        3. S-TYPE, X-TYPEM, XJ.\n\n
+        4. XK.\n\n
+        5. XJ.
+    </string>
+
+    <string name="kia_scheme">
+        1. Carnival, Joice.\n\n
+        2. Carens, Sorento.\n\n
+        3. Sportage.\n\n
+        4. Magentis.\n\n
+        5. Sintra.\n\n
+        6. Soul, Magentis (2010).\n\n
+        7. Shuma.\n\n
+        8. Carnival, Ceed, Cerato, Picanto, Pro Ceed, Rio, Sportage, Venga.
+    </string>
+
+    <string name="landrover_scheme">
+        1. Freelander.\n\n
+        2. Discovery, Range Rover Sport.\n\n
+        3. Defender, Range Rover.
+    </string>
+
+    <string name="lexus_scheme">
+        1. GS Series.\n\n
+        2. IS Series.\n\n
+        3. LS Series.\n\n
+        5. RX Series.\n\n
+        5. SC Series, RX Series.\n\n
+        6. GS Series, IS Series.
+    </string>
+
+    <string name="mazda_scheme">
+        1. B-Series, Tribute.\n\n
+        2. 121, 323, 626, 929, B2500, CX7, CX9, Mazda2, Mazda3, Mazda5, Mazda6, RX3, RX7, RX8.
+    </string>
+
+    <string name="mercedes_scheme">
+        1. B-Klasse, Maybach, Vito.\n\n
+        2. SLR, McLaren.\n\n
+        3. C-Klasse, E-Klasse.
+    </string>
+
+    <string name="mitsubishi_scheme">
+        1. Colt, Galant, Grandis, Lancer, Outlander, Pajero.\n\n
+        2. Sigma.\n\n
+        3. Pajero Pinin.\n\n
+        4. Carisma, Space Gear, Space Runner, Space Wagon.\n\n
+        5. L200, Pajero Sport.\n\n
+        6. Canter.\n\n
+        7. Colt, Colt CZC.
+    </string>
+
+    <string name="nissan_scheme">
+        1. Almera, Kubistar, Micra, Note, Primera,Primastar, Qashqai.\n\n
+        2. 350Z.\n\n
+        3. Micra, Navara, Pathfinder, Patrol, Pick Up, Primera, Tiida, X-Trail.\n\n
+        4. Terrano II.
+    </string>
+
+    <string name="opel_scheme">
+        1. Astra, Combo, Corsa, Insignia, OMEGA, Speedster, Vectra, Vivaro, Zafira.\n\n
+        2. Antara, Astra, Corsa, Meriva, Signum, Tigra.\n\n
+        3. Campo, Frontera.\n\n
+        4. Sintra.\n\n
+        5. GT.\n\n
+        6. Agila.
+    </string>
+
+    <string name="peugeot_scheme">
+        1. 4007, Bipper, Bipper Tree.\n\n
+        2. 206, 406 Coupe, 607.\n\n
+        3. Boxer, Jumper.\n\n
+        4. 306.\n\n
+        5. 307, 308, 407, 1007.\n\n
+        6. 106, 306, 308, 3008, 5008, Partner Tepee.\n\n
+        7. 206+, 306 Cabrio, 306 Cabrio.\n\n
+        8. 207 SW, 806, Expert Tepee.
+    </string>
+
+    <string name="renault_scheme">
+        1. Logan, Duster, Fluence, Kangoo, Koleos, Megane, Sandero, Scenic.
+    </string>
+
+    <string name="skoda_scheme">
+        1. Bohemia, Fabia, Favorit, Felicia, Octavia, Octavia Scout, Pick Up,
+        Praktik, Rapid, Roomster, Roomster Scout, S 105, Superb, Yeti.
+    </string>
+
+    <string name="subaru_scheme">
+        1. Justy.\n\n
+        2. Vivio.\n\n
+        3. Forester, Impreza, Legacy, Outback.
+    </string>
+
+    <string name="susuki_scheme">
+        1. Splash, Swift.\n\n
+        2. Baleno, Grand Vitara, Ignis, Liana, SX4.\n\n
+        3. Jimmy, Wagon R.\n\n
+        4. Alto, Carry.
+    </string>
+
+    <string name="toyota_scheme">
+        1. Celica, Hilux, Land Cruiser, Previa.\n\n
+        2. Avensis Verso, Camry, Picnic, Yaris Versa.\n\n
+        3. Celica, Corolla, Hiace, Previa, RAV4, Carina.\n\n
+        4. Avalon, Avensis.\n\n
+        5. Corolla, IQ, Yaris, 4 Runner.\n\n
+        6. Corolla, IQ, Yaris.
+    </string>
+
+    <string name="volvo_scheme">
+1. XC90, C70, S70, S80, V70.\n\n
+2. S40, V40, V70.\n\n
+3. S60.\n\n
+4. S30, S40, V50, V70, XC70.
+    </string>
+
+    <string name="vw_scheme">
+        1. Caddy.\n\n
+        2. Transporter.\n\n
+        3. Все остальные модели.
+    </string>
+
+    <string name="audi_scheme">
+        80, 90, 100, 200, Audi 5000,
+        A1, A2, A3, A3 Cabrio, A4, A4 AllRoad Quattro, A4 Cabrio, A5, A5 Cabrio, A5 Coupe,
+        A6, A7, A8, Q5, Q7, RS4, RS6, R8, R8 Spyder,
+        S1, S3, S4, S5, S6, S8, TT Coupe Sport, TT Roadster.
+    </string>
+
+    <string name="variable_place_text">Варианты расположения:</string>
+    <string name="photo_place_text">Пример расположения:</string>
+    <string name="description_text">Вы можете посмотреть полный список цветов или выбрать цвет отдельной модели.</string>
+    <string name="choice_model_btn">Выбрать цвет модели</string>
+    <string name="color_list_btn">Полный список цветов</string>
+    <string name="no_connection_toast">Нет подключения к интернету</string>
+    <string name="error_toast">Ooooops!!!!</string>
+
+</resources>
